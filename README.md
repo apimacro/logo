@@ -1,5 +1,15 @@
-# logo
-logo.apimacro.com
+
+![3/cover.png](http://logo.apimacro.com/3/cover.png)
+
+# [logo.apimacro.com](https://logo.apimacro.com/)
+
++ [www.apimacro.com](https://www.apimacro.com/)
++ [docs.apimacro.com](https://examples.apimacro.com/)
++ [bash.apimacro.com](https://bash.apimacro.com/)
++ [examples.apimacro.com](https://examples.apimacro.com/)
+
+Macro builder based on CSV data format and Command with bash scripts
+
 
 
 
@@ -37,3 +47,9 @@ Icon Designed by
 
 ## 4
 ![4/cover.png](4/cover.png)
+
+
+---
+
++ [edit](https://github.com/apimacro/logo/edit/main/README.md)
+
