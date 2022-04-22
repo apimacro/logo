@@ -1,6 +1,3 @@
-
-![3/cover.png](http://logo.apimacro.com/3/cover.png)
-
 # [logo.apimacro.com](https://logo.apimacro.com/)
 
 + [www.apimacro.com](https://www.apimacro.com/)
@@ -52,4 +49,5 @@ Icon Designed by
 ---
 
 + [edit](https://github.com/apimacro/logo/edit/main/README.md)
++ [apimacro/logo/](https://github.com/apimacro/logo/
 
