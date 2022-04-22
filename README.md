@@ -15,6 +15,7 @@ Icon Designed by
 ## Font
 
     #707070, #6A4F4C
+    #9B9A9A, #A05E56
 
 ## Background
     
@@ -23,9 +24,16 @@ Icon Designed by
 ## Icon
     
     #6A4F4C, #707070
+    #A05E56, #9B9A9A
 
 ## 1
 ![1/cover.png](1/cover.png)
 
 ## 2
 ![2/cover.png](2/cover.png)
+
+## 3
+![3/cover.png](3/cover.png)
+
+## 4
+![4/cover.png](4/cover.png)
