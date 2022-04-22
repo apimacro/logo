@@ -23,3 +23,9 @@ Icon Designed by
 ## Icon
     
     #6A4F4C, #707070
+
+## 1
+![1/cover.png](1/cover.png)
+
+## 2
+![2/cover.png](2/cover.png)
