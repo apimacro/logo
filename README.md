@@ -49,5 +49,5 @@ Icon Designed by
 ---
 
 + [edit](https://github.com/apimacro/logo/edit/main/README.md)
-+ [apimacro/logo/](https://github.com/apimacro/logo/
++ [apimacro/logo/](https://github.com/apimacro/logo/)
 
